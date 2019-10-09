@@ -129,6 +129,11 @@
 			"Series-Title" : "Coding Concepts - Generics",
 			"link" : "https://dev.to/designpuddle/coding-concepts---generics-34cf",
 			"author" : "Chris Bertrand"
+		},
+		{
+			"Series-Title" : "Awesome talks curated by Param",
+			"link" : "https://dev.to/paramharrison/modelling-data-for-nosql-databases-3ekb",
+			"author" : "Paramanantham Harrison"
 		}
 	]
 }
